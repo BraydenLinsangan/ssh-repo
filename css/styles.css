@@ -3,12 +3,12 @@ body {
 }
 
 h1 {
-  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: Impact;
   background-color:pink;
   color:white;
 }
 
 p {
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: Arial;
   color:white;
 }

@@ -6,9 +6,12 @@ h1 {
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   background-color:pink;
   color:red;
+  font-size: larger;
 }
 
 p {
   font-family:Arial, Helvetica, sans-serif;
   color:white;
+  font-size: larger;
+  font-stretch: ultra-expanded;
 }
